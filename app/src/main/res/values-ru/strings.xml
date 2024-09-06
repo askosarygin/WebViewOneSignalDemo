@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WebViewOneSignalDemo</string>
+    <string name="connected_one_signal">Подключено к One signal, вы можете посылать пуши</string>
+    <string name="empty_text_field">Пустое поле ввода!</string>
+    <string name="url_saved">Ссылка сохранена</string>
+    <string name="enter_your_one_signal_app_id_to_send_notifications">Введите ваш One signal App ID чтобы отправлять уведомления на это устройство</string>
+    <string name="enter_one_signal_app_id_here">Введите ваш One signal App ID здесь</string>
+    <string name="connect_to_one_signal">Подключить к One signal</string>
+    <string name="enter_your_ad_url_description">Введите ссылку на вашу клоаку и перезапустите приложение, клоака откроется, а не дефолтная vk.com. Внимание! Web view откроется только если будет редирект в клоаке. По умолчанию для теста vk.com редиректится на m.vk.com, имитируя поведение клоаки при показе таргетированному пользователю.</string>
+    <string name="enter_your_ad_url_here">Введите ссылку на клоаку здесь</string>
+    <string name="change_ad_url">Изменить ссылку на клоаку</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">WebViewOneSignalDemo</string>
+
+    <string name="connected_one_signal">Connected to One signal, you can send pushes</string>
+    <string name="empty_text_field">Empty text field!</string>
+    <string name="url_saved">URL saved</string>
+    <string name="enter_your_one_signal_app_id_to_send_notifications">Enter your One signal App ID to send notifications to this app</string>
+    <string name="enter_one_signal_app_id_here">Enter One signal App ID here</string>
+    <string name="connect_to_one_signal">Connect to One signal</string>
+    <string name="enter_your_ad_url_description">Enter your ad url and re-launch the application, your ad will open, not vk.com. Attention! Web view will be opened only if there is a redirect in the ad link. By default the vk.com link redirects to m.vk.com, imitating the behavior of a cloaking services</string>
+    <string name="enter_your_ad_url_here">Enter your ad url here</string>
+    <string name="change_ad_url">Change ad url</string>
+
+
+</resources>
